@@ -1,0 +1,31 @@
+{
+    "swagger": "2.0",
+    "info": {
+      "version": "1.0.0",
+      "title": "Blogging System API",
+      "description": "Blogging System API",
+      "license": {
+        "name": "MIT",
+        "url": "https://opensource.org/licenses/MIT"
+      }
+    },
+    "host": "localhost:6565",
+    "basePath": "/",
+    "tags": [
+      {
+        "name": "Blogging System",
+        "description": "API"
+      }
+    ],
+    "schemes": [
+      "http"
+    ],
+    "consumes": [
+      "application/json"
+    ],
+    "produces": [
+      "application/json"
+    ],
+    "paths": {}
+  }
+  
